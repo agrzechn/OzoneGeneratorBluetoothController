@@ -1,4 +1,4 @@
-# OzoneGenerator Bluetooth Controller
+# Ozone Generator Bluetooth Controller
 
 Control the ozone generator with your Android smartphone by bluetooth.
 
