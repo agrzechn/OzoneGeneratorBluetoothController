@@ -23,5 +23,3 @@ Control the ozone generator with your Android smartphone by bluetooth.
 </p>
   
 # Hardware example - ESP32
-
-# License
