@@ -10,6 +10,11 @@ Control the ozone generator with your Android smartphone by bluetooth.
   <li>Set ozone generator power (support for 2 relays)</li>
 </ul>
 
+<h3>Requirements:</h3>
+<ul>
+  <li>Android 6.0 and newer</li>
+</ul>
+
 # Screenshots
 <p align="middle">
 <img src="https://user-images.githubusercontent.com/77308688/159093134-dbc2eb58-36d3-47ed-9641-16333f6d62ce.jpg" width="300" />
