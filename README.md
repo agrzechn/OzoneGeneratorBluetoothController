@@ -17,9 +17,12 @@ Control the ozone generator with your Android smartphone by bluetooth.
 
 # Screenshots
 <p align="middle">
-<img src="https://user-images.githubusercontent.com/77308688/159093134-dbc2eb58-36d3-47ed-9641-16333f6d62ce.jpg" width="300" />
-<img src="https://user-images.githubusercontent.com/77308688/159093138-9bdc5fe8-52f7-4bdb-bfb8-b92435d2e216.jpg" width="300" />
-<img src="https://user-images.githubusercontent.com/77308688/159093323-89c625c7-9e64-4454-a708-a21887930451.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/77308688/159093134-dbc2eb58-36d3-47ed-9641-16333f6d62ce.jpg" width="300"/>
+<img src="https://user-images.githubusercontent.com/77308688/159093138-9bdc5fe8-52f7-4bdb-bfb8-b92435d2e216.jpg" width="300"/>
+<img src="https://user-images.githubusercontent.com/77308688/159093323-89c625c7-9e64-4454-a708-a21887930451.jpg" width="300"/>
 </p>
   
 # Hardware example - ESP32
+<p align="middle">
+<img src="https://user-images.githubusercontent.com/77308688/159119833-fe5e3737-8aef-4bbc-8125-265952113a84.jpg" width="600"/>
+ </p>
